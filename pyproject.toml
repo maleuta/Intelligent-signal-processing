@@ -1,0 +1,12 @@
+[project]
+name = "agh-ips-labs"
+version = "0.1.0"
+description = "AGH 5th semester IPS laboratories"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0.0",
+    "opencv-python>=4.10.0",
+    "matplotlib>=3.9.0",
+    "ipykernel>=6.29.0",
+]
