@@ -23,3 +23,4 @@ Thumbs.db
 # Large video files
 # *.mp4
 # *.avi
+.npy
